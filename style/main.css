@@ -1,0 +1,27 @@
+.corpo{
+    padding: 0px;
+    margin: 0px;
+    background-image: url(../img/fundo-restaurante.jpg);
+}
+
+.secoes {
+    background-color: #f0f0f0;
+    margin: 3%;
+    padding: 5%;
+    border: 1px solid black;
+}
+
+.descricao {
+    max-width: 800px;
+    max-height: auto;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-block-end: auto;
+}
+.imgs{
+    max-width: 100%;
+    text-align: center;
+    margin-left:auto;
+    margin-right: auto;
+}
